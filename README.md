@@ -1,74 +1,92 @@
-# ASIF KAMAL 👋
+<!-- PROFILE HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,50:312E81,100:2563EB&text=ASIF%20KAMAL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Creativity%20%7C%20Technology%20%7C%20Innovation&descAlignY=60&descSize=16" width="100%"/>
+<div align="center">
 
-<h3 align="center">Computer Engineering Student | Graphic Designer | UI/UX Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,50:172554,100:2563EB&text=ASIF%20KAMAL&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Capturing%20Ideas%20%E2%80%A2%20Crafting%20Experiences%20%E2%80%A2%20Creating%20Possibilities&descSize=13&descAlignY=62" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Designing+Digital+Experiences;Turning+Ideas+Into+Reality;Exploring+Creative+Technology;Always+Learning+Something+New" />
-</p>
+<br/>
+
+### 🎨 Creative Mind. Digital Vision.
+
+*Turning imagination into meaningful digital experiences.*
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ASIFKAMAL155891)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ASIFKAMAL8075)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## ✦ A Little About Me
 
-- 🎓 Computer Engineering Student
-- 🎨 Passionate about Graphic Design and UI/UX
-- 💡 Interested in creative technology and digital experiences
-- 🌐 Exploring web technologies and modern interfaces
-- 🎬 Video Creator and Visual Content Enthusiast
-- 🚀 Building projects and learning new skills
+Hey! I'm **Asif Kamal**, a Computer Engineering student with a passion for creativity, visual storytelling and technology.
 
-### 🛠️ Tech Stack & Tools
+I enjoy exploring the intersection of design and technology, transforming simple ideas into engaging digital experiences.
 
-**Development**
+- 🎬 Creating content and visual stories
+- 🎨 Exploring graphic design and visual identity
+- 🖥️ Interested in UI/UX and digital experiences
+- 💡 Always exploring new ideas and possibilities
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
+
+## ✦ Creative Toolkit
+
+**Design & Creativity**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-00005B?style=flat-square&logo=adobepremierepro&logoColor=9999FF)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+
+**Development & Technology**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Creative Tools**
+---
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+## ✦ Selected Projects
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| BrandElavate | Digital branding and business website |
-| Kori League | Football league management platform |
-| EV & CNG Finder | Vehicle fuel and charging station finder |
-| CK Construction | Construction company website |
-| Smart Pharmacy | Pharmacy management system |
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ASIFKAMAL8075&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIFKAMAL8075&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=ASIFKAMAL8075&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ASIFKAMAL8075">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+| Project | What it's about |
+|:--|:--|
+| 🏆 Kori League | Football league management platform |
+| ⚡ EV & CNG Finder | Finding EV charging and CNG stations |
+| 🏗️ CK Construction | Construction company website |
+| 💼 BrandElavate | Digital branding and business presence |
+| 💊 Smart Pharmacy | Pharmacy management system |
 
 ---
 
-<p align="center">
-  <b>✨ Design with creativity. Build with purpose. Innovate with technology.</b>
-</p>
+## ✦ GitHub Insights
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:09090B&height=100&section=footer" width="100%"/>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ASIFKAMAL8075&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIFKAMAL8075&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ASIFKAMAL8075&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Beyond Ordinary. Beyond Expected.
+
+*Capturing Ideas. Crafting Experiences. Creating Possibilities.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:09090B&height=110&section=footer" width="100%"/>
+
+</div>
