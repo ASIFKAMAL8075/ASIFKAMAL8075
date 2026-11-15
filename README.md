@@ -1,13 +1,8 @@
 <!-- PROFILE HEADER -->
 
 <div align="center">
-  
 
-
-
-![ASIF KAMAL](https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:15803D&height=220&section=header&text=ASIF%20KAMAL&fontSize=55&fontColor=00FF88&fontAlignY=40&desc=CODE%20%7C%20BUILD%20%7C%20INNOVATE&descSize=18&descAlignY=62)
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,50:172554,100:2563EB&text=ASIF%20KAMAL&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Capturing%20Ideas%20%E2%80%A2%20Crafting%20Experiences%20%E2%80%A2%20Creating%20Possibilities&descSize=13&descAlignY=62" width="100%"/>
 
 <br/>
 
