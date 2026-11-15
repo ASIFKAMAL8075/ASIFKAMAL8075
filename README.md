@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,50:172554,100:2563EB&text=ASIF%20KAMAL&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Capturing%20Ideas%20%E2%80%A2%20Crafting%20Experiences%20%E2%80%A2%20Creating%20Possibilities&descSize=13&descAlignY=62" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F172A,100:0369A1&text=%3C%20ASIF%20KAMAL%20%2F%3E&fontSize=55&fontColor=38BDF8&fontAlignY=40&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descSize=16&descAlignY=62" width="100%"/>
+
 
 <br/>
 
