@@ -3,7 +3,9 @@
 <div align="center">
   
 
-![ASIF KAMAL](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=ASIF%20KAMAL&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=DEVELOP%20%7C%20DESIGN%20%7C%20INNOVATE&descSize=16&descAlignY=62)
+
+![ASIF KAMAL](https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:052E16,100:16A34A&height=220&section=header&text=%3C%2F%3E%20ASIF%20KAMAL&fontSize=52&fontColor=00FF88&fontAlignY=38&desc=const%20passion%20%3D%20%22PROGRAMMING%22%3B&descSize=17&descAlignY=60)
+
 
 <br/>
 
