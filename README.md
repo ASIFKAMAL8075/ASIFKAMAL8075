@@ -2,7 +2,8 @@
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:111827,100:1D4ED8&height=220&section=header&text=ASIF%20KAMAL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=%7B%20CODE%20%7D%20%E2%80%A2%20%3C%2F%3E%20BUILD%20%E2%80%A2%20INNOVATE&descSize=18&descAlignY=60" width="100%"/>
+
+![ASIF KAMAL](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=ASIF%20KAMAL&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=DEVELOP%20%7C%20DESIGN%20%7C%20INNOVATE&descSize=16&descAlignY=62)
 
 <br/>
 
